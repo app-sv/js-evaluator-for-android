@@ -1,0 +1,22 @@
+com/evgenii/jsevaluator/interfaces/WebViewWrapperInterface.java
+ com.evgenii.jsevaluator.interfaces.WebViewWrapperInterface
+com/evgenii/jsevaluator/interfaces/JsEvaluatorInterface.java
+ com.evgenii.jsevaluator.interfaces.JsEvaluatorInterface
+com/evgenii/jsevaluator/JavaScriptInterface.java
+ com.evgenii.jsevaluator.JavaScriptInterface
+com/evgenii/jsevaluator/HandlerWrapper.java
+ com.evgenii.jsevaluator.HandlerWrapper
+com/evgenii/jsevaluator/WebViewWrapper.java
+ com.evgenii.jsevaluator.WebViewWrapper
+com/evgenii/jsevaluator/JsEvaluator.java
+ com.evgenii.jsevaluator.JsEvaluator
+com/evgenii/jsevaluator/BuildConfig.java
+ com.evgenii.jsevaluator.BuildConfig
+com/evgenii/jsevaluator/interfaces/HandlerWrapperInterface.java
+ com.evgenii.jsevaluator.interfaces.HandlerWrapperInterface
+com/evgenii/jsevaluator/JsFunctionCallFormatter.java
+ com.evgenii.jsevaluator.JsFunctionCallFormatter
+com/evgenii/jsevaluator/interfaces/JsCallback.java
+ com.evgenii.jsevaluator.interfaces.JsCallback
+com/evgenii/jsevaluator/interfaces/CallJavaResultInterface.java
+ com.evgenii.jsevaluator.interfaces.CallJavaResultInterface
