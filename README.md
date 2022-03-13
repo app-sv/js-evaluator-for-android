@@ -30,7 +30,7 @@ allprojects {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     // Keep you existing dependencies here
-    implementation 'com.github.evgenyneu:js-evaluator-for-android:v5.0.0'
+    implementation 'com.github.app-sv:js-evaluator-for-android:v1.0.1'
 }
 ```
 
